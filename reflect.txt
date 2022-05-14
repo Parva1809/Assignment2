@@ -1,0 +1,14 @@
+                                                           Reflection
+Name: Patel Parva jitendrakumar
+ID: 116635202
+Email: pjpatel41@myseneca.ca
+Date: 4 August 2021
+Section: OOP244 NFF
+
+While doing workshop and giving quiz in this semister I learned number of things. Earlier it was difficult for me to understand but then after attending lectures and going throug notes help me much. Learning C++ seems little easy as i had leaarned C language in first semester. Doing workshop and quizes help me to get for idea about C++ Language. 
+
+I learned number of concepts like Dynamic memory, member function, construction, input output, derived classes, member operators, helper function, templates, input output refinement, derived class resources and polymortphasim. From this member function was my favourite.
+
+Doing quizes was little bit hard because it was taken before the topic covered but realy this method make us to do hard work and score good grades.
+
+Overall learning this course help me to get powerfull in C++ lamguage. 

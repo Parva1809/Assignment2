@@ -1,0 +1,8 @@
+﻿fp2Tester.obj : error LNK2005: _main already defined in fp1Tester.obj
+fp3Tester.obj : error LNK2005: "void __cdecl copyFile(char const *,char const *)" (?copyFile@@YAXPBD0@Z) already defined in fp2Tester.obj
+fp3Tester.obj : error LNK2005: "void __cdecl displayFile(char const *)" (?displayFile@@YAXPBD@Z) already defined in fp2Tester.obj
+fp3Tester.obj : error LNK2005: _main already defined in fp1Tester.obj
+fpTester.obj : error LNK2005: "void __cdecl copyFile(char const *,char const *)" (?copyFile@@YAXPBD0@Z) already defined in fp2Tester.obj
+fpTester.obj : error LNK2005: "void __cdecl displayFile(char const *)" (?displayFile@@YAXPBD@Z) already defined in fp2Tester.obj
+fpTester.obj : error LNK2005: _main already defined in fp1Tester.obj
+C:\Users\parva\OneDrive\Desktop\semester\Study Sem 2\OOP\MS5\Debug\MS5.exe : fatal error LNK1169: one or more multiply defined symbols found
